@@ -18,4 +18,4 @@ pip install numpy matplotlib
 ```bash
 python ecosystem_simulation.py --steps 300
 ```
-Default number of steps is 200 if not specified
+Default number of steps is 200 
